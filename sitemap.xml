@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://wonglay.com/2020/10/18/hello/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wonglay.com/2020/10/14/hello-world/</loc>
     
     <lastmod>2020-10-14</lastmod>
@@ -32,7 +39,7 @@
 
   <url>
     <loc>https://wonglay.com/</loc>
-    <lastmod>2020-10-18</lastmod>
+    <lastmod>2020-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
