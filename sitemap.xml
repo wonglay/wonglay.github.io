@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wonglay.com/tags/index.html</loc>
+    
+    <lastmod>2020-10-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/categories/index.html</loc>
+    
+    <lastmod>2020-10-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/2020/10/14/hello-world/</loc>
+    
+    <lastmod>2020-10-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wonglay.com/404.html</loc>
     
     <lastmod>2020-10-17</lastmod>
@@ -9,28 +30,7 @@
   </url>
   
   <url>
-    <loc>https://wonglay.com/categories/index.html</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wonglay.com/tags/index.html</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://wonglay.com/2020/10/18/hello/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wonglay.com/2020/10/14/hello-world/</loc>
     
     <lastmod>2020-10-14</lastmod>
     
@@ -45,6 +45,55 @@
   </url>
 
   
+  <url>
+    <loc>https://wonglay.com/tags/java/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/tags/php/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/tags/%E9%AB%98%E5%B9%B6%E5%8F%91/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://wonglay.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/js%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
