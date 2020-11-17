@@ -4,7 +4,7 @@
   <url>
     <loc>https://wonglay.com/2020/11/01/AOP%E5%92%8CAspectJ%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     
   </url>
   
@@ -32,7 +32,7 @@
 
   <url>
     <loc>https://wonglay.com/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,21 +40,21 @@
   
   <url>
     <loc>https://wonglay.com/tags/Spring/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wonglay.com/tags/AOP/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wonglay.com/tags/AspectJ/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,14 +63,14 @@
   
   <url>
     <loc>https://wonglay.com/categories/frameworks/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wonglay.com/categories/frameworks/Spring/</loc>
-    <lastmod>2020-11-08</lastmod>
+    <loc>https://wonglay.com/categories/Spring/</loc>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
