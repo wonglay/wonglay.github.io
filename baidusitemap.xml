@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wonglay.com/2020/12/01/cccc/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
     <loc>https://wonglay.com/2021/01/01/jdk-dynamic-proxy-implementation-principle/</loc>
     <lastmod>2021-01-13</lastmod>
   </url>
