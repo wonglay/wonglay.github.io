@@ -74,13 +74,6 @@
   </url>
   
   <url>
-    <loc>https://wonglay.com/tags/JDK/</loc>
-    <lastmod>2023-05-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wonglay.com/tags/Spring/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
@@ -96,6 +89,13 @@
   
   <url>
     <loc>https://wonglay.com/tags/AspectJ/</loc>
+    <lastmod>2023-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/tags/JDK/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
