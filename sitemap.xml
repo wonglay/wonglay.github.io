@@ -60,27 +60,6 @@
 
   
   <url>
-    <loc>https://wonglay.com/tags/CGLIB/</loc>
-    <lastmod>2023-05-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wonglay.com/tags/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2023-05-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wonglay.com/tags/Java/</loc>
-    <lastmod>2023-05-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wonglay.com/tags/Spring/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
@@ -102,6 +81,27 @@
   </url>
   
   <url>
+    <loc>https://wonglay.com/tags/CGLIB/</loc>
+    <lastmod>2023-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/tags/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2023-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonglay.com/tags/Java/</loc>
+    <lastmod>2023-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wonglay.com/tags/JDK/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
@@ -111,14 +111,14 @@
 
   
   <url>
-    <loc>https://wonglay.com/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://wonglay.com/categories/Frameworks/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wonglay.com/categories/Frameworks/</loc>
+    <loc>https://wonglay.com/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
